@@ -1,7 +1,7 @@
 
-# SeleniumWebdriverQazandoBase
+# Selenium Webdriver
 
-Projeto base de Selenium Webdriver e Java da @qazando.
+Projeto base de Selenium Webdriver e Java.
 
 
 
@@ -9,10 +9,10 @@ Projeto base de Selenium Webdriver e Java da @qazando.
 
 
 ```bash
-  - Java 8 ou 11
+  - Java 8 
   - Navegadores (Chrome e/ou Firefox)
   - Drivers na raiz do projeto (Chomedriver na mesma versão do navegador)
-  - IntelliJ IDEA (Versão comunity mesmo)
+  
 ```
 
 
